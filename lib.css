@@ -1,0 +1,15 @@
+lib/
+│── main.dart
+│── screens/
+│   │── home_screen.dart
+│   │── game_screen.dart
+│── widgets/
+│   │── cryptogram_display.dart  <-- NEW
+│   │── letter_input.dart        <-- NEW
+│── models/
+│   │── cryptogram.dart
+│── services/
+│   │── cryptogram_generator.dart
+│── themes/
+│   │── light_theme.dart
+│   │── dark_theme.dart
